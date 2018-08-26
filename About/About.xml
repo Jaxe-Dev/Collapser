@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+  <name>Collapser</name>
+  <author>Jaxe</author>
+  <targetVersion>0.19.0</targetVersion>
+  <description>Collapser is a simple mod that alters how a thick overhead mountain roof will collapse.\n\nIf an overhead mountain roof collapses and there is a non-thick roof on a tile directly adjacent to the north, south, east or west of it then the thick roof will be removed.\n\nThis does not particularly make it easy to carve out open areas inside mountains but the main purpose of this mod is to deal with randomly isolated overhead mountain tiles.</description>
+  <url>https://ludeon.com/forums/index.php?topic=43486.0</url>
+</ModMetaData>
