@@ -1,7 +1,7 @@
 ﻿using System.Reflection;
+using Collapser;
 
-[assembly: AssemblyTitle("Collapser")]
-[assembly: AssemblyProduct("Collapser")]
+[assembly: AssemblyTitle(Mod.Name)]
+[assembly: AssemblyProduct("RimWorld Mods by Jaxe")]
 [assembly: AssemblyCopyright("© Jaxe")]
-[assembly: AssemblyVersion("1.0")]
-[assembly: AssemblyFileVersion("1.0")]
+[assembly: AssemblyVersion(Mod.Version)]
