@@ -1,18 +1,18 @@
 # Collapser
-![](https://img.shields.io/badge/Version-1.0-brightgreen.svg)
+![](https://img.shields.io/badge/Mod_Version-1.1-blue.svg)
+![](https://img.shields.io/badge/Built_for_RimWorld-B19-blue.svg)
+![](https://img.shields.io/badge/Powered_by_Harmony-1.2.0.1-blue.svg)
 
-Built for **RimWorld 1.0.x / 0.19.x**\
-Powered by **Harmony**\
-Supports **ModSync RW**
-
-[Link to Ludeon Forum Post](https://ludeon.com/forums/index.php?topic=43486.0)
+[Link to Steam Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=1499847220)\
+[Link to Ludeon Forum thread](https://ludeon.com/forums/index.php?topic=43486.0)
 
 ------------
 
-Collapser is a simple mod that alters how a thick overhead mountain roof will collapse.
+Remove overhead mountains on collapse as long as there is non-overhead mountain roof next to the collapse.
 
-If an overhead mountain roof collapses and there is a non-thick roof on a tile directly adjacent to the north, south, east or west of it then the thick roof will be removed.
-This does not particularly make it easy to carve out open areas inside mountains but the main purpose of this mod is to deal with randomly isolated overhead mountain tiles.
+Without this mod there is no way to remove overhead mountain, no matter how many times it collapses it does not go away. With this mod if an overhead mountain roof collapses and there is a non-overhead roof on a tile directly adjacent to it then the overhead mountain will be removed.
+
+While there are other mods that enable removing overhead mountains manually like normal roofs, this mod restricts it to only edges of mountains so you could technically remove a whole mountain as long as you start from the edge and work inwards.
 
 ------------
 

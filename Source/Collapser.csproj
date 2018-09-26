@@ -13,15 +13,6 @@
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
   </PropertyGroup>
-  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-    <DebugSymbols>false</DebugSymbols>
-    <DebugType>none</DebugType>
-    <Optimize>false</Optimize>
-    <OutputPath>..\Assemblies\</OutputPath>
-    <DefineConstants>DEBUG;TRACE</DefineConstants>
-    <ErrorReport>prompt</ErrorReport>
-    <WarningLevel>4</WarningLevel>
-  </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>none</DebugType>
     <Optimize>true</Optimize>
@@ -46,9 +37,25 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Patch.cs" />
-    <Compile Include="Main.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Mod.cs" />
+    <Compile Include="Patch.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="..\.gitignore">
+      <Link>-\.gitignore</Link>
+    </Content>
+    <Content Include="..\About\About.xml">
+      <Link>-\About\About.xml</Link>
+    </Content>
+    <Content Include="..\About\ModSync.xml">
+      <Link>-\About\ModSync.xml</Link>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\README.md">
+      <Link>-\README.md</Link>
+    </None>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
