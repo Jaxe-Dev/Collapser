@@ -8,7 +8,7 @@ namespace Collapser
     {
         public const string Id = "Collapser";
         public const string Name = Id;
-        public const string Version = "1.1";
+        public const string Version = "1.2";
 
         static Mod() => HarmonyInstance.Create(Id).PatchAll();
     }
