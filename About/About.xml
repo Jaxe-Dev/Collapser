@@ -3,7 +3,6 @@
 <ModMetaData>
   <name>Collapser</name>
   <author>Jaxe</author>
-  <targetVersion>0.19.0</targetVersion>
-  <description>Mod Version: 1.1\n\n\nRemove overhead mountains on collapse as long as there is non-overhead mountain roof next to the collapse.\n\nWithout this mod there is no way to remove overhead mountain, no matter how many times it collapses it does not go away. With this mod if an overhead mountain roof collapses and there is a non-overhead roof on a tile directly adjacent to it then the overhead mountain will be removed..</description>
-  <url>https://github.com/Jaxe-Dev/Collapser</url>
+  <targetVersion>1.0.0</targetVersion>
+  <description>Mod Version: 1.2\n\n\nRemove overhead mountains on collapse as long as there is non-overhead mountain roof next to the collapse.\n\nWithout this mod there is no way to remove overhead mountain, no matter how many times it collapses it does not go away. With this mod if an overhead mountain roof collapses and there is a non-overhead roof on a tile directly adjacent to it then the overhead mountain will be removed..</description>
 </ModMetaData>
