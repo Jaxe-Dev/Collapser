@@ -1,4 +1,4 @@
-﻿using Harmony;
+using HarmonyLib;
 using Verse;
 
 namespace Collapser
@@ -8,8 +8,8 @@ namespace Collapser
     {
         public const string Id = "Collapser";
         public const string Name = Id;
-        public const string Version = "1.2";
+        public const string Version = "1.3";
 
-        static Mod() => HarmonyInstance.Create(Id).PatchAll();
+        static Mod() => new Harmony(Id).PatchAll();
     }
 }
