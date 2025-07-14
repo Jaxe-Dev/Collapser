@@ -1,8 +1,8 @@
 # Collapser
-![Mod Version](https://img.shields.io/badge/Mod_Version-1.7-blue.svg)
-![RimWorld Version](https://img.shields.io/badge/Built_for_RimWorld-1.4-blue.svg)
-![Harmony Version](https://img.shields.io/badge/Powered_by_Harmony-2.3-blue.svg)\
-![Steam Subscribers](https://img.shields.io/badge/dynamic/xml.svg?label=Steam+Subscribers&query=//table/tr[2]/td[1]&colorB=blue&url=https://steamcommunity.com/sharedfiles/filedetails/%3Fid=1499847220&suffix=+total)
+![Mod Version](https://img.shields.io/badge/Mod_Version-1.8-blue.svg)
+![RimWorld Version](https://img.shields.io/badge/Built_for_RimWorld-1.6-blue.svg)
+![Harmony Version](https://img.shields.io/badge/Powered_by_Harmony-2.3.6-blue.svg)\
+![Steam Downloads](https://img.shields.io/steam/downloads/1499847220?colorB=blue&label=Steam+Downloads)
 ![GitHub Downloads](https://img.shields.io/github/downloads/Jaxe-Dev/Collapser/total.svg?colorB=blue&label=GitHub+Downloads)
 
 [Link to Steam Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=1499847220)\
